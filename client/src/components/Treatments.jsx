@@ -1,7 +1,7 @@
 
 export default function Treatments() {
     return (
-        <section className="py-12 bg-orange-400">
+        <section id="treatments" className="py-12 bg-orange-400">
             <div className="container mx-auto w-4/5 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
                 <div>
                     <img src="/treat1.jpg" width={"100%"} alt="" />

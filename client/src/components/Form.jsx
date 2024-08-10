@@ -18,7 +18,7 @@ export default function Form() {
         }
     }
     return (
-        <div className="bg-orange-100 flex justify-center">
+        <div id="contact" className="bg-orange-100 flex justify-center">
             <div className="py-16 w-4/5 flex flex-col-reverse md:flex-row gap-8">
                 <div className="w-full md:w-1/2">
                     <div className="text-orange-400 text-lg font-bold mb-2">BOOK AN APPOINTMENT</div>
