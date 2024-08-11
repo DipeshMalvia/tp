@@ -5,7 +5,7 @@ import Treatments from "./components/Treatments";
 import Footer from "./components/Footer";
 import Banner from "./components/Banner";
 import Form from "./components/Form";
-import Nav from "./components/nav";
+import Nav from "./components/Nav";
 
 function App() {
   return (
